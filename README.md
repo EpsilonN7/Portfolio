@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/cpsqlturbo)  
 📧 cp@sqlturbo.com  
 📞 (863) 944-8589  
-📍 1973 Dipol Courtway, Titusville, FL 32780  
+📍 Titusville
 
 ---
 
