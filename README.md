@@ -26,11 +26,6 @@ Hello, I'm Caleb Timon Pfingston—a passionate technologist specializing in dat
 
 ## 📂 Featured Projects
 
-### ARA Table-top AI
-**Tech:** Python, Docker Compose, Docker, Yaml, Flask, Json, Ollama
-- Designed an AI website scrapping application able to pull rulings and data from target sites
-- Achieved data scrapping speed within 30 seconds (projected improved performance once implemented with AWS compatibility)
-
 ### Employee Database Management System
 **Tech:** Oracle 12c, SQL  
 - Designed and implemented a normalized employee records database with robust data integrity and security practices.
